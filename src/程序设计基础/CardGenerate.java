@@ -29,5 +29,6 @@ public class CardGenerate {
         //System.out.println("当N为"+N+"时：需要的卡片数量为"+bin.length());
     }
 
+    /////////////////////////////
     ///////////////////////////////
 }
