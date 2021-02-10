@@ -18,6 +18,7 @@ public class CardGenerate {
         }
     }
     public static void main(String[] args) {
+
         int N = 50;
         for (int i = 1; i <= N; i++) {
             getCount(i);
@@ -28,4 +29,5 @@ public class CardGenerate {
         //System.out.println("当N为"+N+"时：需要的卡片数量为"+bin.length());
     }
 
+    ///////////////////////////////
 }
